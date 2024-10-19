@@ -1,0 +1,81 @@
+header{
+    font-family:courier;
+    text-align:center;
+    background-color:green;
+    color:white;
+    height: 30px;
+    line-height: 30px;
+    padding:0.2%;
+}
+.main{
+    background-color: blue;
+    width: 35%;
+    margin-left:30%; 
+    padding-top:1%;
+    padding-left:2%;    
+    padding-right:2%;
+    padding-bottom:1%;
+    color: white;
+    font-size:18px;
+    font-family:arial;
+}
+
+#figure{
+    width: 6vw;
+    height: 6vw;
+    border: solid 5px white;
+    border-radius: 1vw 0vw 1.5vw 0vw;
+    float: left;
+    margin: 0% 4% 5% 0%
+}
+
+.link{
+    text-align:center;
+}
+
+h2{
+    word-spacing: 0.5vw;
+}
+
+li{
+    padding-left: 4%;
+    margin-bottom: 2%;
+}
+
+#value2{
+    letter-spacing: 0.5vw;
+    color: #34e5eb;
+}
+
+#visual_styles{
+    font-size: 25px;
+}
+
+td{
+    width: 30px;
+    height: 25px;
+    border: solid 2px white;
+    text-align: center; 
+    vertical-align: bottom;
+}
+
+table{
+    border: solid 2px white;
+    float: right;
+    height: 140px;
+    width: 170px;
+    margin-right: 8px;
+}
+
+img{
+    float:right;
+}
+
+footer{
+    font-family: arial;
+    text-align: center;
+    background-color: green;
+    color: white;
+    line-height: 30px; 
+    padding:0.2%;
+}
